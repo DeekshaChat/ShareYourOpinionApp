@@ -1,11 +1,39 @@
 {
   "opinions": [
     {
+      "id": 1739101200450,
+      "votes": 2,
+      "userName": "Deeksha",
+      "title": "React and React Native",
+      "body": "Its a great framework to work on web end and mobile end"
+    },
+    {
+      "id": 1739101053339,
+      "votes": 3,
+      "userName": "Akash",
+      "title": "3D",
+      "body": "Car care centre. Detail your car with premium services"
+    },
+    {
+      "id": 1739101018885,
+      "votes": 2,
+      "userName": "Vimlesh",
+      "title": "Teaching",
+      "body": "Its a noble profession"
+    },
+    {
+      "id": 1739100996756,
+      "votes": 2,
+      "userName": "C.S Chaturvedi",
+      "title": "Air Force",
+      "body": "Touch the sky with glory"
+    },
+    {
       "id": 1,
       "userName": "Maximilian Schwarzmüller",
       "title": "Do yourself a favor and learn React!",
       "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
-      "votes": 0
+      "votes": 1
     },
     {
       "id": 2,
